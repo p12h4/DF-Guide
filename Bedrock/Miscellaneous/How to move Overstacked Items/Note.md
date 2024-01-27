@@ -1,0 +1,1 @@
+This only works on Mobile. Trying this on other Platforms like PC will glitch out your game.
