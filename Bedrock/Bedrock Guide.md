@@ -606,4 +606,4 @@ Beta 1.18.20.21: (Android Exclusive Version, Requires Experimental Mode)
 
 
 ### Preview 1.20.60.20:
-####** - Mining Decorated Pots with loot tables using a silk touch pickaxe won't remove the loot table tag
+#### ** Mining Decorated Pots with loot tables using a silk touch pickaxe won't remove the loot table tag
