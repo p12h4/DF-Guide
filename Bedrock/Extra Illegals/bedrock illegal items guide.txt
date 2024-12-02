@@ -1,0 +1,164 @@
+🇮​​​​​🇳​​​​​🇹​​​​​🇷​​​​​🇴​​​​​🇩​​​​​🇺​​​​​🇨​​​​​🇹​​​​​🇮​​​​​🇴​​​​​🇳​​​​​:
+A detailed guide to collect every illegal block and item through the versions of minecraft bedrock edition, includes illegal blocks and items, excludes entitys (except unexploded tnt and camera), block formations, invalid enchanted items (except [𝗠𝗧𝗥] and items that are not meant to be enchanted at all and op mace) and illegal blockstates (except lit respawn anchors)
+🇼​​​​​🇭​​​​​🇦​​​​​🇹​​​​​ 🇮​​​​​🇸​​​​​ 🇨​​​​​🇴​​​​​🇳​​​​​🇸​​​​​🇮​​​​​🇩​​​​​🇪​​​​​🇷​​​​​🇪​​​​​🇩​​​​​ 🇨​​​​​🇭​​​​​🇪​​​​​🇦​​​​​🇹​​​​​🇮​​​​​🇳​​​​​🇬​​​​​:
+𝕃𝔼𝔾𝕀𝕋:
+ - playing the game
+ - multiplayer
+ - playing old versions
+ - playing previews
+ - having backups in case of corruption
+ - carrying out bugs and glitches
+ - using texture packs
+ - using clients
+ - changing world settings
+𝕌ℕ𝔼𝕋ℍ𝕀ℂ𝔸𝕃 𝔹𝕌𝕋 𝕊𝕋𝕀𝕃𝕃 𝕃𝔼𝔾𝕀𝕋:
+ - downgrading (without modifying level.dat)
+ - using seed maps (chunkbase)
+ - having copys of worlds incase something bad happens ingame
+ - advantage texture packs (xray, esp, villager trade view, etc)
+ - duping
+ - save scumming
+ℂℍ𝔼𝔸𝕋𝕀ℕ𝔾:
+ - using hack clients
+ - using world editors
+ - external tools
+ - swapping/editing world files
+ - having copys of worlds incase something bad happens ingame for hardcore
+ - duping in hardcore
+ - force quit duping
+ - manipulating force quitting in some way
+ - 'creative' glitches (glitches that give you equivilant of creative or operator)
+ - transferring items between worlds
+ - using addons
+ - using education edition/having education features enabled
+ - using world convertors 
+ - disabling achievements in any way
+ - playing previews in hardcore
+ - using an xbox 360 edition or console edition world
+🇰​​​​​🇪​​​​​🇾​​​​​:
+[𝗘𝗫] - Requires Experiment (will be specified)
+[𝗩𝗧] - video tutorial linked
+[𝗧/𝗘] - Requires touchscreen or android emulator because the game has to recognise your input method as 'touch'
+[𝗔𝗣𝗞] - This version was never released for windows 10/11 so an android emulator must be used
+[𝗚𝗕𝗖] - Gravity Block Conversion - gravity blocks dropped through an end gateway are corrupted into a random block upon relog shown here → https://youtu.be/9Log6sWZXCo?si=YJXrFleGNQepBJOF
+[𝗨𝗕𝗖] - Unknown Block Conversion - finding a block and downgrading to before it was added causes the block to convert to an unknown block which can be mined to preserve the block's ID which will then convert to the original block in 1.21.30
+[𝗠𝗧𝗥] - unobtainable item can be found on the first floor of the woodland mansion in the secret 'tree chopping' room that has a 'closed' doorway, the room has a tree and a chest with what is meant to be an efficiency 1 axe but is normally not
+[𝗧𝗘𝗦𝗧] - Method is untested/in testing
+[𝗠𝗕𝗣𝗧] - Mining Block Progress Transfer - A glitch that allows you to mine blocks that are normally not targetable by trasferring your progress mining a block to the untargetable block
+[𝗪𝗔𝗥𝗡𝗜𝗡𝗚❗] - Risk of losing unobtainable items (will be specified)
+[𝕏.𝕏.𝕏.𝕏 → 𝕐.𝕐.𝕐.𝕐] start in version X do the thing, downgrade/move to version Y
+🇬​​​​​🇺​​​​​🇮​​​​​🇩​​​​​🇪​​​​​:
+[𝟘.𝟟.𝟚.𝕏] [𝗔𝗣𝗞] [𝗧𝗘𝗦𝗧] [𝗪𝗔𝗥𝗡𝗜𝗡𝗚❗] inventory may be cleared upon updating
+ - Petrified Oak Slabs can be crafted in place of oak slabs
+ - Nether Reactor Cores can be crafted with 3 diamonds and 6 iron ingots
+ - [𝗧𝗘𝗦𝗧] Nether Reactor Spires can be frozen in action by leaving the game (needed to obtain glowing obsidian in 0.12.0.1)
+[𝟘.𝟙𝟚.𝟘.𝟙]
+ - [𝗧𝗘𝗦𝗧] Glowing Obsidian can be obtained by mining it
+ - Old Stonecutters can be crafted with 4 cobblestone
+ - Enchanted Books without any enchantment can be obtained by placing them in a chest and blowing up the chest
+[𝟘.𝟙𝟟.𝟘.𝟚] [𝗔𝗣𝗞]
+ - [𝗧𝗘𝗦𝗧] Chorus Stems can be obtained with silk touch
+[𝟙.𝟘.𝟘.𝟙𝟞]
+ - Lit Furnaces can be obtained with silk touch
+ - Anvils with damage values 0,1,2,3 can be obtained by them breaking when falling onto a torch (these will be used to obtain the broken anvil)
+[𝟙.𝟙.𝟝.𝟘]
+ - Place down the anvils with damnage values of 0,1,2,3 from 1.0.0.16
+ - [𝗠𝗕𝗣𝗧] [𝗩𝗧] moving blocks can be obtained with this setup requiring at least an efficiency 4 diamond pickaxe → https://youtu.be/Idv-LM_lQfM?si=EuFEdr_mROYxYbAe
+[𝟙.𝟚.𝟛.𝟛]
+ - Mob spawner blocks can be obtained by mining them
+ - Undyed Shulker Boxes can be filled with Undyed Shulker Boxes using a hopper
+ - [𝗧/𝗘] [𝗩𝗧] Piston Arm Collisions and Redstone Wires can be obtained with this setup → https://youtu.be/86Rkopc-lRk?si=RFgpHCKqDjS8YSFg
+[𝟙.𝟚.𝟞.𝟝𝟝] [𝗔𝗣𝗞]
+ - [𝗧𝗘𝗦𝗧] [𝗧/𝗘] Lingering Potions of Decay can be obtained by swapping any item with the red potion in the incomplete crafting recipe after clicking on the recipe
+[𝟙.𝟚.𝟙𝟛.𝟝𝟜]
+ - End Portal Blocks can be obtained by waterlogging them
+ - End Gateway Blocks can be obtained by waterlogging them (use a dispenser if you can't figure it out)
+[𝟙.𝟝.𝟘.𝟙𝟜]
+ - Broken Anvils can be obtained by mining the anvils from 1.1.5.0
+ - Red and Brown mushroom blocks with damage values 1-9 can be silk touched
+ - [𝗠𝗕𝗣𝗧] [𝗩𝗧] Water, Flowing Water, Lava, Flowing Lava can be obtainbed with this setup → https://youtu.be/Idv-LM_lQfM?si=EuFEdr_mROYxYbAe
+[𝟙.𝟙𝟘.𝟙.𝟙 → 𝟙.𝟙𝟙.𝟘.𝟙]
+ - [𝗧𝗘𝗦𝗧] All slabs become double slabs when updating to this version
+[𝟙.𝟙𝟞.𝟜𝟘.𝟚]
+ - Lit Respawn Anchors can be obtained by silk touching them ( lit once, twice, 3 times and 4 times)
+ - [𝗚𝗕𝗖] These Blocks can be obtained:
+   - border block, command block, chain command block, repeating command block, structure block, jigsaw block, light blocks 0-15, barrier
+   - end portal frame, fire, soul fire, invisible bedrock, chiseled purpur, smooth purpur
+   - underwater torch, underwater tnt, allow, deny, camera, chemical heat, hard glass, hard glass pane
+   - infested stone, cobblestone, stone bricks, mossy stone bricks, cracked stone bricks, chiseled stone bricks
+   - info update, info update 2, reserved 6
+ - [𝗚𝗕𝗖] also obtainable but not exclusive:
+   - chorus stem, petrified oak slab, nether reactor core, glowing obsidian, mob spawner, flowing water, water, flowing lava, lava, old stonecutter
+   - bubble column, lit respawn anchor 1-4, broken anvil, bedrock, structure void
+[𝟙.𝟙𝟞.𝟙𝟘𝟘.𝟝𝟚]
+ - [𝗚𝗕𝗖] Farmland can be obtained (it's quite common don't worry!)
+[𝟙.𝟙𝟞.𝟙𝟘𝟘.𝟝𝟞]
+ - [𝗠𝗧𝗥] mansion has efficiency 1 egg
+[𝟙.𝟙𝟞.𝟚𝟙𝟘.𝟝𝟟 → 𝟙.𝟙𝟞.𝟚𝟙𝟘.𝟝𝟝]
+ - [𝗧𝗘𝗦𝗧] [𝗘𝗫] [𝗨𝗕𝗖] All 7 Double Cut Copper Slabs (excluding Double Waxed Oxidised Cut Copper Slab) can be found, converted to an unknwon block and converted back to themselves in 1.21.30.23 (with caves and cliffs experiment)
+[𝟙.𝟙𝟞.𝟚𝟚𝟘.𝟝𝟚 → 𝟙.𝟙𝟞.𝟚𝟚𝟘.𝟝𝟙]
+ - [𝗧𝗘𝗦𝗧] [𝗘𝗫] [𝗨𝗕𝗖] Glow vines, Glow Berry Vines and Glow Berry Vine Tips can be found, converted to an unknown block and converted back to themselves in 1.21.30.23 (with caves and cliffs experiment)
+ - [𝗘𝗫] in 1.16.220.51 craft cut copper blocks and place them (these will convert into unknown blocks next version) (with caves and cliffs experiment)
+[𝟙.𝟙𝟞.𝟚𝟛𝟘.𝟝𝟜 → 𝟙.𝟙𝟞.𝟚𝟛𝟘.𝟝𝟘]
+ - [𝗘𝗫] Unknown blocks can be obtained from the cut copper blocks from 1.16.220.51
+ - [𝗩𝗧] Powedered Snow Blocks can be obtained by placing it inside a bubble column and pushing it into a wall with a piston → https://youtu.be/qBvycwTPF6g?si=OJOgd64ClG_jNqYk
+ - [𝗧𝗘𝗦𝗧] [𝗨𝗕𝗖] Double Waxed Oxidised Cut Copper Slabs, Lit Deepslate Redstone Ore, Double Cobbled Deepslate Slabs, Double Deepslate Brick Slabs, Double Polished Deepslate Slabs, Double Deepslate Tile Slabs can be found, converted to an unknwon block and converted back to themselves in 1.21.30.23 (with caves and cliffs experiment)
+[𝟙.𝟙𝟟.𝟘.𝟝𝟜 → 𝟙.𝟙𝟟.𝟘.𝟝𝟚]
+ - [𝗨𝗕𝗖] Infested Deepslate can be found, converted to an unknown block and converted back to itself in 1.21.30.23
+[𝟙.𝟙𝟟.𝟙𝟘.𝟚𝟚 → 𝟙.𝟙𝟟.𝟙𝟘.𝟚𝟙]
+ - [𝗧𝗘𝗦𝗧] [𝗨𝗕𝗖] All 17 Candle Cakes can be found, converted to an unknown block and converted back to themselves in 1.21.30.23
+[𝟙.𝟙𝟟.𝟛𝟚.𝟚]
+ - [𝗠𝗧𝗥] mansion has efficiency 1 leather helmet
+ - Black Glow Sticks can be obtained from the woodland mansion fake end portal secret room trapped chest generating on the first floor
+ - [𝗠𝗕𝗣𝗧] [𝗩𝗧] Nether Portal Blocks can be obtained with this setup → https://youtu.be/XsgvbR2IzU0?si=ve1PXfnJU5TAv7xk
+[𝟙.𝟙𝟠.𝟛𝟘.𝟛𝟛 → 𝟙.𝟙𝟠.𝟛𝟘.𝟛𝟙]
+ - [𝗘𝗫] Structure voids generate inside ancient city which can be mined in 1.20.62.1 (with wild update experiment)
+ - [𝗘𝗫] [𝗨𝗕𝗖] Reinforced deepslate can be found, converted to an unknown block and converted back to itself in 1.21.30.23 (with wild update experiment)
+[𝟙.𝟙𝟡.𝟝𝟘.𝟚𝟙 → 𝟙.𝟙𝟡.𝟝𝟘.𝟚𝟘]
+ - [𝗧𝗘𝗦𝗧] [𝗘𝗫] [𝗨𝗕𝗖] Double Bamboo slabs and Double Bamboo Mosaic Slabs can be found, converted to an unknown block and converted back to themselves in 1.21.30.23 (with next major update experiment)
+[𝟙.𝟙𝟡.𝟟𝟘.𝟚𝟛 → 𝟙.𝟙𝟡.𝟟𝟘.𝟚𝟚]
+ - [𝗠𝗧𝗥] mansion has efficiency 1 leather chestplate (DO THIS FIRST)
+ - [𝗧𝗘𝗦𝗧] [𝗘𝗫] [𝗨𝗕𝗖] The Torch Flower Crop item can be found, converted to an unknown block and converted back to itself in 1.21.30.23 (with sniffer experiment)
+[𝟙.𝟙𝟡.𝟠𝟛.𝟙]
+ - [𝗩𝗧] All 9 standing sign tiles and wall sign tiles can be silk touched after regenerating from the regen duplication glitch shown here → https://youtu.be/IPCpwxhccsg?si=HzK8bc5HLcrKgLDP
+ - [𝗘𝗫] [𝗩𝗧] The bamboo and cherry wall and standing sign tiles can also be obtained (with the 1.20 experiment)
+[𝟙.𝟚𝟘.𝟜𝟙.𝟚]
+ - [𝗠𝗧𝗥] mansion has efficiency 1 leather leggings
+ - [𝗠𝗕𝗣𝗧] [𝗩𝗧] Bubble Columns can be obtained using this setup → https://youtu.be/ZGletcyKdYY?si=BsulQVAcLAe5mDln
+ - [𝗩𝗧] Bedrock can be obtained using this setup → https://youtu.be/grsIDCVX4E8?si=-jCrUrfNqqts7PZR
+[𝟙.𝟚𝟘.𝟝𝟘.𝟚𝟚 → 𝟙.𝟚𝟘.𝟝𝟘.𝟚𝟙]
+ - [𝗠𝗧𝗥] mansion has efficiency 1 leather boots (DO THIS FIRST)
+ - [𝗧𝗘𝗦𝗧] [𝗘𝗫] [𝗨𝗕𝗖] The Double Tuff Slab, Double Tuff Brick Slab and Double Polished Tuff Slab can be found, converted to an unknown block and converted back to themselves in 1.21.30.23 (with 1.21 experiment)
+[𝟙.𝟚𝟘.𝟞𝟚.𝟚]
+ - Structure voids can be obtained by mining them with anything in the ancienty city from 1.18.30.33
+ - [𝗘𝗫] [𝗠𝗧𝗥] mansion has efficiency 1 chainmail helmet (with 1.21 experiment)
+[𝟙.𝟚𝟘.𝟟𝟘.𝟚𝟙 → 𝟙.𝟚𝟘.𝟟𝟘.𝟚𝟘]
+ - [𝗘𝗫] [𝗨𝗕𝗖] Vaults can be found, converted to an unknown block and converted back to itself in 1.21.30.23 (with 1.21 experiment)
+[𝟙.𝟚𝟘.𝟠𝟙.𝟙]
+ - [𝗘𝗫] [𝗠𝗧𝗥] mansion has efficiency 1 chainmail chestplate (with 1.21 experiment)
+ - [𝗘𝗫] mine pots generating in trial chambers with your fist as they will have a loot table attatched to them (there are 3 extra varients with different sherds) (with 1.21 experiment)
+[𝟙.𝟚𝟙.𝟘.𝟚𝟝 → 𝟙.𝟚𝟙.𝟘.𝟚3] [𝗪𝗔𝗥𝗡𝗜𝗡𝗚❗] petrified oak slabs have been deleted in version 1.21.0.24 (but not double petrified oak slabs), store them in mined shulker boxes or unloaded chunks to preserve them
+ - [𝗧𝗘𝗦𝗧] [𝗨𝗕𝗖] Double Petrified Oak Slabs can be found, converted to an unknown block and converted back to itself in 1.21.30.23
+ - In 1.21.0.23 Maces can be enchanted with density 5, breach 4 and smite 5/bane of athropods 5 at the same time, a maxed out mace would then consist of 7 enchantments and curse of vanishing
+[𝟙.𝟚𝟙.𝟚.𝟚]
+ - [𝗠𝗧𝗥] mansion has efficiency 1 chainmail leggings
+[𝟙.𝟚𝟙.𝟙𝟘.𝟚𝟚 → 𝟙.𝟚𝟙.𝟙𝟘.𝟚𝟙]
+ - [𝗧𝗘𝗦𝗧] [𝗨𝗕𝗖] These Double slabs: (red sandstone, purpur, prismarine, prismarine brick, dark prismarine, mossy cobblestone, smooth sandstone, red nether brick, endstone brick, smooth red sandstone, polished andesite, diorite, polished diorite, andesite, granite, polished granite,mossy stone brick, smooth quartz, stone, cut sandstone, cut red sandstone, oak) can be found, converted to an unknown block and converted back to themselves in 1.21.30.23
+[𝟙.𝟚𝟙.𝟛𝟘.𝟚𝟛] [𝗪𝗔𝗥𝗡𝗜𝗡𝗚❗] items whose identifier starts with minecraft:item.X will be reverted and lost going forwards meaning that Camera block will be lost as well, place them down to save them (these are not retrievable in the future)
+ - [𝗚𝗕𝗖] Camera Blocks for GBC will convert into camera 'spawn eggs' allowing for the camera entity to be obtained in survival
+ - [𝗨𝗕𝗖] unknown blocks will convert to their original blocks in this version
+ - [𝗘𝗫] Bundles can be filled with undyed shulker boxes (with bundle experiment)
+[𝟙.𝟚𝟙.𝟛𝟘.𝟚𝟜]
+ - [𝗘𝗫] Bundles can be filled with 64 maces in a single stack (with bundle experiment)
+🇨​​​​​🇺​​​​​🇷​​​​​🇷​​​​​🇪​​​​​🇳​​​​​🇹​​​​​ 🇻​​​​​🇪​​​​​🇷​​​​​🇸​​​​​🇮​​​​​🇴​​​​​🇳​​​​​
+[𝟙.𝟚𝟙.𝟛𝟙.𝟜]
+ - Shears can be enchanted with silk touch, Compass, Recovery Compass, Lodestone Compass can be enchanted with Curse of Vanishing
+ - Tall grass can be found in savanna village house chests and Large ferns can found in Taiga and snowy Taiga village house chests
+ - Max level fletchers can offer Arrows of Decay
+ - [𝗩𝗧] Suspicious Sand and Gravel can be obtained with this setup → https://youtu.be/srD3JmMr7EA?si=yXaFHvYykMFpQCgU
+ - [𝗠𝗧𝗥] mansion has efficiency 1 chainmail boots
+ - [𝗘𝗫] [𝗠𝗧𝗥] mansion has efficiency 1 iron helmet (with bundle experiment)
+ - Unexploded TNT cam be obtained
+🇨​​​​​🇺​​​​​🇷​​​​​🇷​​​​​🇪​​​​​🇳​​​​​🇹​​​​​ 🇵​​​​​🇷​​​​​🇪​​​​​🇻​​​​​🇮​​​​​🇪​​​​​🇼​​​​​
+[𝟙.𝟚𝟙.𝟝𝟘.𝟚𝟜]
+ - [𝗠𝗧𝗥] mansion has efficiency 1 golden apple (fake notch apples are real!)
