@@ -161,6 +161,8 @@
 - Pumpkins can be equipped on armor stands, players and hostile mobs. These pumpkins will convert to regular pumpkins in future versions instead of carved pumpkins
 
 - Farmer villagers now sell 5-7 apples instead of just 5 apples
+
+- Standing and wall banners can be obtained by mining their respective block forms with a Silk Touch tool.
 <br>
 
 
