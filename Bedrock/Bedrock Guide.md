@@ -222,6 +222,11 @@
 <br><br>
 
 
+### Beta 1.8.0.8: (Android Exclusive Version) 
+- All double slabs can be obtained by mining their corresponding block form.
+<br>
+
+
 ### 1.8.0:
 - Bedrock can be obtained by making a Bamboo-based Bedrock Farm in the End. The Farm is powered by End Crystals that regenerate the Bedrock automatically: Farm Tutorial: https://youtu.be/gA4l__oYjQ0
 <br>
