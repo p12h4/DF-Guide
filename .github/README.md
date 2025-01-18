@@ -7,7 +7,7 @@
 This repository is a guide to help you find and collect all the discontinued features in Minecraft. It covers **Java Edition**, **Bedrock Edition**, and **Legacy Console Edition**, with each edition having its own dedicated section:
 
 - [Bedrock Edition](https://github.com/p12h4/DF-Guide/tree/main/Bedrock)
-- [Java Edition](https://github.com/p12h4/DF-Guide/tree/main/Java)
+- Java Edition (WIP)
 - [Legacy Console Edition](https://github.com/p12h4/DF-Guide/tree/main/LCE)
 
 Each guide explains how to obtain all the discontinued features for that edition, along with the specific versions they are available in, and the order you need to switch between versions to collect them all.
