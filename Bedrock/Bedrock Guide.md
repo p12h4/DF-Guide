@@ -161,6 +161,8 @@
 - Pumpkins can be equipped on armor stands, players and hostile mobs. These pumpkins will convert to regular pumpkins in future versions instead of carved pumpkins
 
 - Farmer villagers now sell 5-7 apples instead of just 5 apples
+
+- Standing and wall banners can be obtained by mining their respective block forms with a Silk Touch tool.
 <br>
 
 
@@ -218,6 +220,11 @@
 ### Beta 1.6.0.1: (Android Exclusive Version)
 #### (*) Phantoms had 5 hearts instead of 10 hearts in this version. This can be observed with the Discontinued Feature Tweaks pack.
 <br><br>
+
+
+### Beta 1.8.0.8: (Android Exclusive Version) 
+- All double slabs can be obtained by mining their corresponding block form.
+<br>
 
 
 ### 1.8.0:
