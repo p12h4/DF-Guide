@@ -1,0 +1,32 @@
+name: Discontinued Feature Submission
+description: Submit a new discontinued feature.
+labels: ["enhancement"]
+
+body:
+  - type: textarea
+    attributes:
+      label: What is the discontinued feature?
+      description: Provide a detailed explanation of the discontinued feature.
+      required: true
+  
+  - type: textarea
+    attributes:
+      label: How to obtain this feature?
+      description: Provide detailed steps on how to obtain this discontinued feature in the game.
+      required: true
+  
+  - type: dropdown
+    attributes:
+      label: Game Edition
+      description: Select the Minecraft edition this feature applies to.
+      options:
+        - Bedrock
+        - Java
+        - Legacy Console Edition (Xbox 360)
+      required: true
+  
+  - type: input
+    attributes:
+      label: Minecraft Version
+      description: Specify the Minecraft version where this feature can be found (e.g., 1.17, TU31).
+      required: true
