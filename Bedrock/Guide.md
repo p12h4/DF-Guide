@@ -1,7 +1,7 @@
 ### Notes:
-- To switch versions on Windows, you can use [MCLauncher](https://raw.githubusercontent.com/p12h4/DF-Guide/refs/heads/main/Resources/Files/MCLauncher.zip) from the `Resources` folder. However, for most early versions, you'll need to do it on a mobile device.
+- To switch versions on Windows, you can use [MCLauncher](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Files/MCLauncher.zip) from the `Resources` folder. However, for most early versions, you'll need to do it on a mobile device.
 
-- To access coordinates in older versions of Minecraft, you can use the [CoordinatesUnlocker](https://raw.githubusercontent.com/p12h4/DF-Guide/refs/heads/main/Resources/Resource%20Packs/CoordinatesUnlocker.mcpack) Resource Pack from the `Resources` folder. This pack is made for older versions that automatically enabled cheats when coordinates were activated.
+- To access coordinates in older versions of Minecraft, you can use the [CoordinatesUnlocker](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Resource%20Packs/CoordinatesUnlocker.mcpack) Resource Pack from the `Resources` folder. This pack is made for older versions that automatically enabled cheats when coordinates were activated.
 
 - A good starting seed for 0.3.2 is '3061982'; it contains all the essentials (clay, cactus, snow, lava).
 <br><br>
@@ -241,7 +241,7 @@
 > When performing Gravity Block Conversion, some gravity blocks may turn into blocks that crash your game when picked up!
 
 > [!NOTE]
-> If your menu is bugged, you can use the ["1.16.40 Menu Fix"](https://raw.githubusercontent.com/p12h4/DF-Guide/refs/heads/main/Resources/Resource%20Packs/1.16.40%20Menu%20Fix.mcpack) Resource Pack from the `Resources` folder.
+> If your menu is bugged, you can use the ["1.16.40 Menu Fix"](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Resource%20Packs/1.16.40%20Menu%20Fix.mcpack) Resource Pack from the `Resources` folder.
 
 - Pistons can extend below y level 0
 
@@ -440,7 +440,7 @@
 
 
 ### 1.18.10:
-- The third hotbar slot acts as another output slot while being in the Furnace UI. For instance, if you switch between two stacks of netherite scraps (rename one to be able to swap) in this slot, you will receive 128 XP per swap. By using an autoclicker, you can reach the maximum level using this bug. You can use auto-clickers for both ["Windows"](https://raw.githubusercontent.com/p12h4/DF-Guide/refs/heads/main/Resources/Files/AutoClicker/Windows/SpeedAutoClicker-v1.6.2.exe) and ["Android"](https://raw.githubusercontent.com/p12h4/DF-Guide/refs/heads/main/Resources/Files/AutoClicker/Android/com.truedevelopersstudio.automatictap.autoclicker.apk) from the `Resources` folder
+- The third hotbar slot acts as another output slot while being in the Furnace UI. For instance, if you switch between two stacks of netherite scraps (rename one to be able to swap) in this slot, you will receive 128 XP per swap. By using an autoclicker, you can reach the maximum level using this bug. You can use auto-clickers for both ["Windows"](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Files/AutoClicker/Windows/SpeedAutoClicker-v1.6.2.exe) and ["Android"](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Files/AutoClicker/Android/com.truedevelopersstudio.automatictap.autoclicker.apk) from the `Resources` folder
 
 - It is possible to obtain villagers with incorrect trades, such as a fletcher with stone mason trades. To achieve this, follow these steps: First, place 20 beds, with 19 of them corresponding to one type of workstation and 1 bed with a different type of workstation. Next, bring 20 villagers to the area where you have set up the beds and workstations. Then you have to zombify all the villagers. Once they are zombified, you can cure them. If done correctly, one of the villagers should have incorrect trades. This happens because the villagers keep their profession after being zombified, but during the curing process, there is a brief moment when they can change professions before returning to their original state
 <br>
