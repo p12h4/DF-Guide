@@ -5,6 +5,11 @@ labels: ["enhancement"]
 body:
   - type: textarea
     attributes:
+      label: Media
+      description: Provide screenshots or videos showcasing the discontinued feature (optional).
+  
+  - type: textarea
+    attributes:
       label: What is the discontinued feature?
       description: Provide a detailed explanation of the discontinued feature.
     validations:
@@ -16,11 +21,6 @@ body:
       description: Provide detailed steps on how to obtain this discontinued feature in the game.
     validations:
       required: true
-  
-  - type: textarea
-    attributes:
-      label: Media
-      description: Provide screenshots or videos showcasing the discontinued feature (optional).
   
   - type: dropdown
     attributes:
