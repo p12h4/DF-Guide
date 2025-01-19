@@ -17,6 +17,11 @@ body:
     validations:
       required: true
   
+  - type: textarea
+    attributes:
+      label: Media
+      description: Provide screenshots or videos showcasing the discontinued feature (optional).
+  
   - type: dropdown
     attributes:
       label: Game Edition
@@ -27,11 +32,6 @@ body:
         - Legacy Console Edition (Xbox 360)
     validations:
       required: true
-  
-  - type: textarea
-    attributes:
-      label: Screenshots and/or Videos
-      description: Provide screenshots or videos showcasing the discontinued feature (optional).
   
   - type: input
     attributes:
