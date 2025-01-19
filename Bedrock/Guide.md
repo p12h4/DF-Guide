@@ -7,7 +7,7 @@
 <br><br>
 
 
-# 0.3.2: (Android Exclusive Version)
+### 0.3.2: (Android Exclusive Version)
 - World names can be up to 1023 characters long. Out of these, only 255 can be regular characters like letters, numbers, or common symbols (e.g. , - _ or .). The remaining 768 characters must be special characters that are not allowed in Android folder names. These include symbols such as /, \, :, *, ?, ", <, >, and |.
 
 - Line breaks are allowed in world names
@@ -625,7 +625,7 @@ Beta 1.18.20.21: (Android Exclusive Version, Requires Experimental Mode)
 <br>
 
 
-Preview 1.21.50.20:
+### Preview 1.21.50.20:
 - Creaking Hearts can be placed into the furnace fuel slot
 
 - Golden Apples with Efficiency 1 can be found in the tree room within Woodland Mansions
