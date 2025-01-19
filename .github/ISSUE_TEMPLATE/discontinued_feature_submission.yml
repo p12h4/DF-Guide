@@ -28,6 +28,11 @@ body:
     validations:
       required: true
   
+  - type: textarea
+    attributes:
+      label: Screenshots and/or Videos
+      description: Provide screenshots or videos showcasing the discontinued feature (optional).
+  
   - type: input
     attributes:
       label: Minecraft Version
