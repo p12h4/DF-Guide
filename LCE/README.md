@@ -1,6 +1,8 @@
 # Legacy Console Edition (Xbox 360)
 
 Welcome to the **Legacy Console Edition** section of the Discontinued Features Guide! This section is dedicated to helping you discover and collect all the discontinued features specific to Minecraft: Xbox 360 Edition.
+<br><br><br>
+
 
 ## What's Here?
 
@@ -9,6 +11,7 @@ Welcome to the **Legacy Console Edition** section of the Discontinued Features G
 
 - **Resources**
   - Additional resources and tools are located in the `Resources` folder.
+<br><br><br>
 
 
 ## How to Install Versions on Windows
@@ -27,6 +30,7 @@ Welcome to the **Legacy Console Edition** section of the Discontinued Features G
    To play with a different Title Update, delete the existing file in that directory and replace it with the one you want to use.
 
 6. Launch **Xenia** and start the game.
+<br><br><br>
 
 
 ## Xenia Button Mappings

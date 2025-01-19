@@ -139,6 +139,8 @@
 - Pumpkins can be equipped on armor stands, players and hostile mobs. These pumpkins will convert to regular pumpkins in future versions instead of carved pumpkins
 
 - Farmer villagers now sell 5-7 apples instead of just 5 apples
+
+- Standing and wall banners can be obtained by mining their respective block forms with a Silk Touch tool
 <br>
 
 
@@ -169,8 +171,13 @@
 <br>
 
 
+### Beta 1.2.13.10: (Android Exclusive Version)
+- Helmets can be enchanted with any enchantment book in anvils
+<br>
+
+
 ### Beta 1.2.14.2: (Android Exclusive Version)
-- Flowers, saplings, and dead bushes can be waterlogged
+- Flowers, saplings, dead bushes and dirt paths can be waterlogged
 <br>
 
 
@@ -184,7 +191,12 @@
 ### Beta 1.6.0.1: (Android Exclusive Version)
 > [!NOTE]
 > This discontinued feature can only be seen with the [Discontinued Feature Tweaks](https://github.com/p12h4/DF-Tweaks) Resource Pack.
-- Phantoms had 5 hearts instead of 10 hearts in this version
+- Phantoms have 5 hearts instead of 10
+<br>
+
+
+### Beta 1.8.0.8: (Android Exclusive Version) 
+- All double slabs can be obtained by mining their corresponding block form
 <br>
 
 
@@ -201,7 +213,7 @@
 
 
 ### Beta 1.11.0.1: (Android Exclusive Version)
-- Updating slabs into this version will cause them to be converted into double slabs. All wood slabs, except for Petrified Oak Slabs, will not convert. In modern versions, these double slabs will turn into normal looking smooth stone slabs and red sandstone slabs, however, they cannot be placed down
+- Updating slabs into this version will cause them to be converted into double slabs. All wood slabs, except for Petrified Oak Slabs, will not convert. In modern versions, these double slabs will turn into normal looking smooth stone slabs and red sandstone slabs, however, they cannot be placed down
 
 - Fletcher villagers can sell maps
 <br>
@@ -250,6 +262,13 @@
 - Endermen can pick up Warped and Crimson Fungus and they can place it on any full block
 
 - Making gravity blocks fall into an end gateway and then relogging transforms those into random blocks. Notable glitched blocks obtainable include: Creative Blocks (e.g. Command Blocks, Bedrock, Light Blocks), Unused Blocks (e.g. Smooth Stone Bricks, Smooth Purpur, Chiseled Purpur), Discontinued Blocks (e.g. Old Stonecutters, Nether Reactor Cores), Education Edition Blocks (e.g. Underwater Torch, Chemical Heat) and Miscellaneous blocks, such as Glitched Anvils, which are distinguishable with the [Discontinued Feature Tweaks](https://github.com/p12h4/DF-Tweaks) Resource Pack
+
+- Charged respawn anchors drop themselves when broken with a Silk Touch Tool
+<br>
+
+
+### Beta 1.16.100.56:
+- Eggs with Efficiency 1 can be found in a secret room within Woodland Mansions. The room contains a chest and a tree, with its entrance blocked off but the frame still visible. This room always appears only on the mansion's first floor. Throughout this guide, this room will now be referred to as the "tree room". You can use the ["Mansion X-Ray"](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Resource%20Packs/Mansion%20X-Ray.mcpack) Resource Pack from the `Resources` folder to make finding hidden rooms easier
 <br>
 
 
@@ -265,7 +284,9 @@
 
 - Wandering Traders sell ink sacs with a damage value of 4
 
-- Within Woodland Mansions, it is possible to obtain Leather Helmets enchanted with Efficiency 1, along with black glow sticks. The helmets can be located in a secret room containing a chest and a tree. This room is easily identifiable due to its blocked-off entrance, though the frame remains visible. On the other hand, finding the Glow Sticks can be quite challenging as they only appear in the rare "Fake End Portal" Room. Unlike the Helmet Room, there are no indicators to help locate it. To simplify the search for the fake portal room, you can use the Mansion Hider pack in the Texture Pack folder, which allows you to see through mansion walls. Both of these rooms can only appear on the mansion's first floor
+- Leather Helmets with Efficiency 1 can be found in the tree room within Woodland Mansions
+
+- Black Glow Sticks can be found in a secret room within Woodland Mansions. The room contains a "Fake End Portal" and is completely hidden within the mansion's walls, with no visible indicators of its presence. This room always appears only on the mansion's first floor
 <br>
 
 
@@ -440,14 +461,14 @@
 
 
 ### 1.18.10:
-- The third hotbar slot acts as another output slot while being in the Furnace UI. For instance, if you switch between two stacks of netherite scraps (rename one to be able to swap) in this slot, you will receive 128 XP per swap. By using an autoclicker, you can reach the maximum level using this bug. You can use auto-clickers for both ["Windows"](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Files/AutoClicker/Windows/SpeedAutoClicker-v1.6.2.exe) and ["Android"](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Files/AutoClicker/Android/com.truedevelopersstudio.automatictap.autoclicker.apk) from the `Resources` folder
+- The third hotbar slot acts as another output slot while being in the Furnace UI. For instance, if you switch between two stacks of netherite scraps (rename one to be able to swap) in this slot, you will receive 128 XP per swap. By using an autoclicker, you can reach the maximum level using this bug. You can use auto-clickers for both [Windows](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Files/AutoClicker/Windows/SpeedAutoClicker-v1.6.2.exe) and [Android](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Files/AutoClicker/Android/com.truedevelopersstudio.automatictap.autoclicker.apk) from the `Resources` folder
 
-- It is possible to obtain villagers with incorrect trades, such as a fletcher with stone mason trades. To achieve this, follow these steps: First, place 20 beds, with 19 of them corresponding to one type of workstation and 1 bed with a different type of workstation. Next, bring 20 villagers to the area where you have set up the beds and workstations. Then you have to zombify all the villagers. Once they are zombified, you can cure them. If done correctly, one of the villagers should have incorrect trades. This happens because the villagers keep their profession after being zombified, but during the curing process, there is a brief moment when they can change professions before returning to their original state
+- It is possible to obtain villagers with incorrect trades, such as a fletcher with stone mason trades. A video showcasing how it works can be seen [here](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Media/Villagers%20with%20trades%20from%20the%20wrong%20profession.mp4)
 <br>
 
 
 ### 1.18.12:
-- Red & Brown Mushroom Blocks, Chorus Plants & Flowers, Iron & Gold Nuggets and Nether Bricks can be placed into the fuel slot in Furnaces
+- Red & Brown Mushroom Blocks, Chorus Plants & Flowers, Iron & Gold Nuggets and Nether Bricks can be placed into the furnace fuel slot
 <br>
 
 
@@ -525,6 +546,8 @@ Beta 1.18.20.21: (Android Exclusive Version, Requires Experimental Mode)
 - Breaking Mangrove Leaves with Shears may drop leaves that don't stack with each other. These can have a "update_bit" tag, "persistant_bit" tag, or both. Just like other items, these can be stored in shulker boxes to prevent them from reverting
 
 - Support Blocks like skulls may appear facing the wrong way in ancient cities
+
+- Cod, Pufferfish, Salmon, and Tropical fish have 3 hearts instead of 1.5
 <br>
 
 
@@ -556,6 +579,11 @@ Beta 1.18.20.21: (Android Exclusive Version, Requires Experimental Mode)
 <br>
 
 
+### 1.19.80:
+- Leather Chestplates with Efficiency 1 can be found in the tree room within Woodland Mansions
+<br>
+
+
 ### 1.20.12:
 - When you break decorated pots with empty sides using your hand, the pot drops. However, the sides that were originally crafted with bricks instead of sherds now have a glitched "item..name" tag
 
@@ -563,9 +591,41 @@ Beta 1.18.20.21: (Android Exclusive Version, Requires Experimental Mode)
 <br>
 
 
+### 1.20.40:
+- Leather Leggings with Efficiency 1 can be found in the tree room within Woodland Mansions
+<br>
+
+
+### 1.20.60 (Requires "1.21 Experiments"):
+- Chain Helmets with Efficiency 1 can be found in the tree room within Woodland Mansions
+<br>
+
+
+### 1.20.72:
+- Leather Boots with Efficiency 1 can be found in the tree room within Woodland Mansions
+<br>
+
+
+### 1.20.72 (Requires "1.21 Experiments"):
+- Chain Chestplates with Efficiency 1 can be found in the tree room within Woodland Mansions
+<br>
+
+
 ### Preview 1.21.0.23:
+> [!CAUTION]
+> Before you update to this version, place your petrified oak slabs into shulker boxes and store them somewhere as they get flattened to the wrong item in this version!
+
 > [!NOTE]
 > This discontinued feature can only be observed once by placing it down, destroying the discontinued feature.
 - Trail Chambers spawn with Decorated Pots that have loot tables. Breaking these pots with a Silk Touch pickaxe does not remove the loot table tag from the item
 
 - Density and Breach can be combined with each other, and both can also be added to Smite and Bane of Arthropods
+
+- Chain Leggings with Efficiency 1 can be found in the tree room within Woodland Mansions
+<br>
+
+
+Preview 1.21.50.20:
+- Creaking Hearts can be placed into the furnace fuel slot
+
+- Golden Apples with Efficiency 1 can be found in the tree room within Woodland Mansions

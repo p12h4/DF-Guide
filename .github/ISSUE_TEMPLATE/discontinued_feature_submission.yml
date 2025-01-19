@@ -25,7 +25,7 @@ body:
   - type: dropdown
     attributes:
       label: Game Edition
-      description: Select the Minecraft edition this feature applies to.
+      description: Select the Minecraft edition this discontinued feature applies to.
       options:
         - Bedrock
         - Java
@@ -36,6 +36,6 @@ body:
   - type: input
     attributes:
       label: Minecraft Version
-      description: Specify the Minecraft version where this feature can be found (e.g., 1.17, TU31).
+      description: Specify the Minecraft version where this discontinued feature can be obtained (e.g., 1.17, TU31).
     validations:
       required: true

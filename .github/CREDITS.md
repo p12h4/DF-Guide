@@ -7,11 +7,10 @@
 - [Minecraft Discontinued Features](https://discord.com/invite/n7v7pgE)
 
 - [Sith's Mods Server](https://discord.gg/E27N9Kt)
-
+<br><br>
 
 
 # Resources
-
 
 ## Bedrock
 
@@ -29,6 +28,9 @@
 
  - [Mining Block Transfer on Liquids](https://www.youtube.com/watch?v=dgi1RIchdpI)
 
+ - [Villagers with trades from the wrong profession](https://www.youtube.com/watch?v=PnucI5QFm9g)
+<br><br><br>
+
 
 ## Java
 
@@ -44,6 +46,7 @@
 
 - **MCDF Wiki**
   - [Visit the Wiki](https://mcdf.wiki.gg/wiki/Minecraft_Discontinued_Features_Wiki)
+<br><br><br>
 
 
 ## LCE

@@ -1,6 +1,8 @@
 # Bedrock Edition
 
 Welcome to the **Bedrock** section of the Discontinued Features Guide! This section is dedicated to helping you discover and collect all the discontinued features specific to Bedrock Edition.
+<br><br><br>
+
 
 ## What's Here?
 
