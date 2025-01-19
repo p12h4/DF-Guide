@@ -29,6 +29,8 @@
  - [Mining Block Transfer on Liquids](https://www.youtube.com/watch?v=dgi1RIchdpI)
 
  - [Villagers with trades from the wrong profession](https://www.youtube.com/watch?v=PnucI5QFm9g)
+
+ - [How To Get A Pet Tame Creeper](https://www.youtube.com/watch?v=xcu77Il9a4A)
 <br><br><br>
 
 

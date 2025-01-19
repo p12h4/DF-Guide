@@ -51,6 +51,10 @@
 - All types of buckets can stack up to 64. To prevent them from breaking, place these buckets directly into a chest before updating
 <br>
 
+### 0.8.0 alpha build 1: (Android Exclusive Version):
+- Placing a Coal Block in a Furnace and updating will turn that Coal Block into Nether Bricks
+<br>
+
 
 ### 0.8.0: (Android Exclusive Version)
 > [!NOTE]
@@ -83,7 +87,9 @@
 ### 0.12.1: (Android Exclusive Version)
 - Placing sponge underwater won't make it absorb any water
 
-- renaming any item in an anvil adds an anvil use, increasing its cost with each renaming
+- Renaming any item in an anvil adds an anvil use, increasing its cost with each renaming
+
+- Blowing up a chest with enchanted books inside will remove the data of the enchanted books, leaving behind plain Enchanted Books with no enchantments
 <br>
 
 
@@ -109,7 +115,7 @@
 <br>
 
 
-### 0.17.0.1: (Android Exclusive Version)
+### alpha 0.17.0.1: (Android Exclusive Version)
 > [!CAUTION]
 > Hitting mobs crashes the game.
 
@@ -118,6 +124,8 @@
 - Wet Sponge does not turn into Dry Sponge in the nether
 
 - Chorus plants can be mined with silk touch
+
+- It is possible to craft Tipped Arrows using Lingering Awkward, Thick, Mundane Potions
 <br>
 
 
@@ -164,7 +172,7 @@
 <br>
 
 
-### Beta 1.2.13.8: (Requires "Use Experimental Gameplay", Android Exclusive Version)
+### Beta 1.2.13.8: (Android Exclusive Version, Requires "Use Experimental Gameplay" World Toggle)
 - Curse of Binding and Curse of Vanishing enchantments use the same ID as Loyalty and Channeling respectively, and in modern versions all curse enchantments will convert to their respective trident enchantment. This allows for channeling on any item that can be enchanted, and loyalty on any item that can be enchanted
 
 - Impaling and Riptide enchantments currently use the same ID as Curse of Binding and Curse of Vanishing enchantments respectively, and in modern versions all impaling and riptide enchantments will convert back to their respective curse. This allows for curse of binding I-V and curse of vanishing I-III books
@@ -185,6 +193,11 @@
 - If you put TNT on a string tied to tripwire hooks and blow it up, it creates a ghost block. If you create this ghost block inside a nether portal frame and break it while the portal is lighting up, you can obtain portal tiles
 
 - Portal Blocks don't update if placed next to each other
+<br>
+
+
+### Beta 1.5.0.0:
+- Husks that are converted to Zombies via drowning are way faster on land
 <br>
 
 
@@ -209,6 +222,11 @@
 - Glass bottles can be put into brewing stands with a hopper
 
 - Brewing potions alongside glass bottles adds a "wasJustBrewed:1" tag to the glass bottles. These glass bottles no longer stack with normal glass bottles
+<br>
+
+
+### 1.10.0 (Requires "Use Experimental Gameplay" World Toggle):
+- V2 Villagers could spawn, but had the same trades as the V1 Villagers. If you trade with them, their trades will get locked and will remain even after updating. You can't level them up or unlock new trades once you update them
 <br>
 
 
@@ -240,6 +258,15 @@
 - Bubble Columns can be obtained via mining block transfer
 
 - Permanently opened barrels can be created by opening a barrel as it gets pushed by a sticky piston
+
+- Vindicators that spawn in woodland mansions don't attack you unless provoked
+<br>
+
+
+### Beta 1.16.0.51:
+- All Crimson and Warped Wood items, except for signs, doors, and Hyphae can be placed into the Furnace fuel slot
+
+- Hoglins taken to the Overworld will never zombify
 <br>
 
 
@@ -264,6 +291,8 @@
 - Making gravity blocks fall into an end gateway and then relogging transforms those into random blocks. Notable glitched blocks obtainable include: Creative Blocks (e.g. Command Blocks, Bedrock, Light Blocks), Unused Blocks (e.g. Smooth Stone Bricks, Smooth Purpur, Chiseled Purpur), Discontinued Blocks (e.g. Old Stonecutters, Nether Reactor Cores), Education Edition Blocks (e.g. Underwater Torch, Chemical Heat) and Miscellaneous blocks, such as Glitched Anvils, which are distinguishable with the [Discontinued Feature Tweaks](https://github.com/p12h4/DF-Tweaks) Resource Pack
 
 - Charged respawn anchors drop themselves when broken with a Silk Touch Tool
+
+- Zombies and Skeletons equip Shields in their offhand slot instead of their mainhand when given one
 <br>
 
 
@@ -274,6 +303,8 @@
 
 ### 1.16.100:
 - If you place a gateway block on the pillar of the end fountain and the dragon perches on the fountain, the dragon will be frozen. Upon re-entering the end, an end gateway will appear where the dragon was, and the dragon will be free again as long as it doesn't perch into the gateway again. These end gateways teleport you to the spot where you manually placed the gateway block
+
+- Placing a sign against a block would replace that block with the sign, making it possible to delete blocks. For example, having a slab on the lower half and placing a sign on it will delete the block directly above the slab. This can also be used to make signs that are supported solely by other signs
 <br>
 
 
@@ -295,6 +326,10 @@
 > This discontinued feature can only be seen with the [Discontinued Feature Tweaks](https://github.com/p12h4/DF-Tweaks) Resource Pack.
 - Foxes can wear armor in this version, simply by dropping it to them
 
+- The offspring of any breedable entity will inherit the current speed of their parents, rather than their base speed. This means that if the parents are splashed by swiftness or slowness potions before breeding, their offspring will be faster or slower accordingly. This process can be repeated endlessly
+
+- Offspring of foxes will inherit the knockback resistance of their parents if the parents are equipped with netherite armor
+
 > [!NOTE]
 > This discontinued feature can only be seen with the [Discontinued Feature Tweaks](https://github.com/p12h4/DF-Tweaks) Resource Pack.
 - Glowstone can be dispensed onto hostile mobs that can wear armor, armor stands and players
@@ -306,12 +341,10 @@
 - End Portals don't trigger block updates when activated. This makes it possible to create floating gravity blocks, headless pistons and sliced portals
 
 - Taking damage mid-air right before you land will give you absorption hearts. These absorption hearts are permanent and can be stacked up to 8 hearts
-
-- When animals and villagers are bred, they use their current speed rather than their base speed. Therefore, if these animals are splashed with swiftness or slowness potions before breeding, their offspring will inherit be faster/slower than their parents. This breeding process can be repeated endlessly
 <br>
 
 
-### Beta 1.16.220.51: (Android Exclusive Version, Requires Experimental Mode)
+### Beta 1.16.220.51: (Android Exclusive Version, Requires "Caves and Cliffs" World Toggle)
 - All cut copper block variants that are placed down in this version will transform into Unknown blocks when updating. These Unknown Blocks will keep their original ID, "minecraft:cut_copper_block". You can also store these cut copper blocks in shulker boxes before updating
 <br>
 
@@ -333,8 +366,8 @@
 <br>
 
 
-### Beta 1.17.0.52: (Android Exclusive Version, Requires Experimental Mode)
-- All chunks that are loaded with the "Caves and Cliffs" experimental toggle will be elevated when updating. Any tile entity data in these chunks will be removed, which can result in things like empty mob spawners
+### Beta 1.17.0.52: (Android Exclusive Version, Requires "Caves and Cliffs" World Toggle)
+- All chunks that are loaded with the experimental toggle enabled will be elevated when updating. Any tile entity data in these chunks will be removed, which can result in things like empty mob spawners
 <br>
 
 
@@ -373,6 +406,8 @@
 - Leashing Axolotls before scooping them up with a bucket won't unleash the axolotl
 
 - When a mob is left with only one heart and is simultaneously struck by an Instant Health Potion and an Instant Damage Potion, the mob becomes invincible. If the mob appears red and shaking, rejoining the game will restore its normal appearance
+
+- Zombies, Husks, Zombie Villagers, and Drowned can pick up Glow Ink Sacs
 <br>
 
 
@@ -381,8 +416,6 @@
 > End Portals give fall damage based on the player's y coordinate in the overworld
 
 - Waterlogging stairs or slabs and then breaking them won't update the water, making it possible to create floating water
-
-- Previously loaded chunks will get 64 bedrock layers below y level 0 if you turn on the "Caves and Cliffs" Experimental Toggle
 
 - Support Blocks can be placed onto Candles
 
@@ -397,6 +430,11 @@
 > [!NOTE]
 > This discontinued feature can only be seen with the [Discontinued Feature Tweaks](https://github.com/p12h4/DF-Tweaks) Resource Pack.
 - Putting something on fire and breaking the block underneath while the game setting "Fire Spreads" is off will make the fire float and it won't distinguish
+<br>
+
+
+### 1.17.10: (Android Exclusive Version, Requires "Caves and Cliffs" World Toggle)
+- Previously loaded chunks will get 64 bedrock layers below y level 0
 <br>
 
 
@@ -479,7 +517,7 @@
 <br>
 
 
-Beta 1.18.20.21: (Android Exclusive Version, Requires Experimental Mode)
+Beta 1.18.20.21: (Requires "Wild Update" World Toggle)
 > [!NOTE]
 > This discontinued feature can only be seen by using third-party tools or checking the files in the world folder.
 - Previously placed frog spawn will turn into unknown blocks, storing the old "minecraft:frog_egg" ID
@@ -490,7 +528,7 @@ Beta 1.18.20.21: (Android Exclusive Version, Requires Experimental Mode)
 <br>
 
 
-### Beta 1.18.20.23: (Android Exclusive Version)
+### Beta 1.18.20.23:
 - All types of torches, redstone dust and Glow Lichen can be placed or attached onto Brewing Stands
 
 - Azalea and Lily Pads don't break if water is flowing around to them
@@ -513,9 +551,9 @@ Beta 1.18.20.21: (Android Exclusive Version, Requires Experimental Mode)
 <br>
 
 
-### Beta 1.18.30.32: (Requires Experimental Mode)
+### Beta 1.18.30.32: (Requires "Wild Update" World Toggle)
 > [!NOTE]
-> the new UI will say "Achievements cannot be earned" if Beta Features are turned on, but that is not the case. Achievements will still be activated like normal.
+> the new UI will say "Achievements cannot be earned" if Beta Features are turned on, but that is not the case. Achievements will still be activated like normal when switching to the old UI.
 - If a charged Sculk Block is being pushed with a flying machine while it is generating Sculk Veins, it can generate Sculk Veins that are in mid-air
 
 - Ancient City structures generate with Structure Void blocks, e.g.: Seed: 6791737265786059692, Coordinates: -1294 -40 -1494
@@ -555,6 +593,8 @@ Beta 1.18.20.21: (Android Exclusive Version, Requires Experimental Mode)
 > [!NOTE]
 > This discontinued feature can only be observed once by placing it down, destroying the discontinued feature.
 - Shulkers inflict levitation 2 instead of levitation 1. To keep this effect, you can let a shulker hit any scoopable mob like Axolotls and promptly scoop them up again after the hit
+
+- Entities that are larger than the boat itself fit into boats
 <br>
 
 
@@ -567,15 +607,22 @@ Beta 1.18.20.21: (Android Exclusive Version, Requires Experimental Mode)
 <br>
 
 
-### Preview 1.19.70.26:
+### Preview 1.19.70.26 (Requires "Next Major Update" World Toggle):
 - Suspicious Sand can be obtained by letting it fall onto an item frame
-
-- Entities that are larger than the boat itself fit into boats
 <br>
 
 
-### Preview 1.19.80.21:
+### 1.19.70:
+- Suspicious Sand can be waterlogged
+<br>
+
+
+### Preview 1.19.80.21 (Requires "Next Major Update" World Toggle):
 - Suspicious Gravel can be obtained by letting it fall onto an item frame
+
+- Decorated Pots use a "shards" tag instead of a "sherds" tag and won't stack with pots crafted in modern versions
+
+- Crafting Decorated Pots with Bricks will add a "minecraft:brick" value inside the "shard" tag and won't stack with pots crafted in modern versions
 <br>
 
 
@@ -588,6 +635,8 @@ Beta 1.18.20.21: (Android Exclusive Version, Requires Experimental Mode)
 - When you break decorated pots with empty sides using your hand, the pot drops. However, the sides that were originally crafted with bricks instead of sherds now have a glitched "item..name" tag
 
 - Illager Banners can be dispensed onto hostile mobs
+
+- It is possible to make creepers that cannot blow up. A video showcasing how it works can be seen [here](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Media/How%20To%20Get%20A%20Pet%20Tame%20Creeper.mp4)
 <br>
 
 
@@ -596,7 +645,7 @@ Beta 1.18.20.21: (Android Exclusive Version, Requires Experimental Mode)
 <br>
 
 
-### 1.20.60 (Requires "1.21 Experiments"):
+### 1.20.60 (Requires "1.21 Experiments" World Toggle):
 - Chain Helmets with Efficiency 1 can be found in the tree room within Woodland Mansions
 <br>
 
@@ -606,8 +655,10 @@ Beta 1.18.20.21: (Android Exclusive Version, Requires Experimental Mode)
 <br>
 
 
-### 1.20.72 (Requires "1.21 Experiments"):
+### 1.20.72 (Requires "1.21 Experiments" World Toggle):
 - Chain Chestplates with Efficiency 1 can be found in the tree room within Woodland Mansions
+
+- Bee Nests and Beehives can be placed into the furnace fuel slot
 <br>
 
 
@@ -619,9 +670,21 @@ Beta 1.18.20.21: (Android Exclusive Version, Requires Experimental Mode)
 > This discontinued feature can only be observed once by placing it down, destroying the discontinued feature.
 - Trail Chambers spawn with Decorated Pots that have loot tables. Breaking these pots with a Silk Touch pickaxe does not remove the loot table tag from the item
 
+- Maces have 501 durability instead of 251. When you downgrade to 1.21.0.22, it'll subtract the difference, and then add it back when you update back. By wearing two maces down to around 200 durability, downgrading will make their durability go negative. Combining them in an anvil reduces the durability even further, making sure it remains negative when you upgrade back
+
 - Density and Breach can be combined with each other, and both can also be added to Smite and Bane of Arthropods
 
 - Chain Leggings with Efficiency 1 can be found in the tree room within Woodland Mansions
+<br>
+
+
+### Preview 1.21.30.24:
+- Maces are now stackable up to 64 and only take up 1 Bundle slot instead of the entire Bundle
+<br>
+
+
+### 1.21.30:
+- You can use touch controls to swap an item in a bundle with a full stack of the same item. Just tap on the item in the bundle's GUI, wait for the bundle icon to show an open bundle with the item in it, then tap on a full stack of that same item in your inventory
 <br>
 
 
@@ -629,3 +692,7 @@ Beta 1.18.20.21: (Android Exclusive Version, Requires Experimental Mode)
 - Creaking Hearts can be placed into the furnace fuel slot
 
 - Golden Apples with Efficiency 1 can be found in the tree room within Woodland Mansions
+
+
+### 1.21.50:
+- Pillagers, Vindicators, and Evokers can pick up White Banners and will swap them with their weapon. They can hold up to 16 White Banners and can also pick up White Banners with Banner Patterns
