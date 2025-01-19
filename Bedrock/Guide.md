@@ -692,6 +692,7 @@ Beta 1.18.20.21: (Requires "Wild Update" World Toggle)
 - Creaking Hearts can be placed into the furnace fuel slot
 
 - Golden Apples with Efficiency 1 can be found in the tree room within Woodland Mansions
+<br>
 
 
 ### 1.21.50:
