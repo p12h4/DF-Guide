@@ -316,8 +316,6 @@
 - Wandering Traders sell ink sacs with a damage value of 4
 
 - Leather Helmets with Efficiency 1 can be found in the tree room within Woodland Mansions
-
-- Black Glow Sticks can be found in a secret room within Woodland Mansions. The room contains a "Fake End Portal" and is completely hidden within the mansion's walls, with no visible indicators of its presence. This room always appears only on the mansion's first floor
 <br>
 
 
@@ -408,6 +406,8 @@
 - When a mob is left with only one heart and is simultaneously struck by an Instant Health Potion and an Instant Damage Potion, the mob becomes invincible. If the mob appears red and shaking, rejoining the game will restore its normal appearance
 
 - Zombies, Husks, Zombie Villagers, and Drowned can pick up Glow Ink Sacs
+
+- Black Glow Sticks can be found in a secret room within Woodland Mansions. The room contains a "Fake End Portal" and is completely hidden within the mansion's walls, with no visible indicators of its presence. This room always appears only on the mansion's first floor
 <br>
 
 
