@@ -51,10 +51,6 @@
 - All types of buckets can stack up to 64. To prevent them from breaking, place these buckets directly into a chest before updating
 <br>
 
-### 0.8.0 alpha build 1: (Android Exclusive Version):
-- Placing a Coal Block in a Furnace and updating will turn that Coal Block into Nether Bricks
-<br>
-
 
 ### 0.8.0: (Android Exclusive Version)
 > [!NOTE]
@@ -76,6 +72,8 @@
 - Carpets can be placed underwater
 
 - Placing logs sideways and breaking them will drop sideways logs
+
+- Placing a Coal Block in a Furnace and updating will turn that Coal Block into Nether Bricks
 <br>
 
 
