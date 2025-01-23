@@ -39,8 +39,6 @@
 
 
 ### 0.6.0: (Android Exclusive Version)
-- Any cake blocks that are placed, will convert to info_update2 in the next version. These blocks can be mined with any tool and will drop themselves
-
 - Top-half slabs are obtainable by placing slabs on the upper half and breaking them
 
 - Placing a slab adjacent to the world border and attempting to place a block that needs support (e.g. torches) on the side of the slab will result in the support block facing towards the world border
@@ -56,6 +54,8 @@
 > [!NOTE]
 > This discontinued feature can only be seen by using third-party tools or checking the files in the world folder.
 - Loading a world creates a "players" folder in the world files. 
+
+- Any beetroot crops that are placed, will convert to info_update2 in the next version. These blocks can be mined with any tool and will drop themselves
 
 - Items can be overstacked by opening your world to LAN and connecting with a second device. If a second device isn’t available, you can use apps like [Parallel Space](https://play.google.com/store/apps/details?id=com.lbe.parallel.intl) to run multiple minecraft instances. Drop the items to the second device and relog on the host device after 10 seconds. This process makes item stacks go over 99, and sometimes over 255, which causes them to overflow into a negative value. In the game, though, negative stacks will still show as 99+
 
