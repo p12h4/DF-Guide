@@ -19,7 +19,7 @@
 ### 0.4.0: (Android Exclusive Version)
 - Red dye can be placed into the furnace output slot by smelting red mushrooms
 
-- Gravity blocks like sand and gravel do not fall when placed in mid-air
+- Gravity blocks like sand and gravel do not fall
 
 - Wooden slabs crafted in this version later turn into petrified oak slabs
 
@@ -67,7 +67,7 @@
 
 ### 0.8.0_test1: (Android Exclusive Version)
 > [!NOTE]
-> This version never got released publicly, but it was uploaded to the play store servers. You can download this with Aurora Store if you have the build number, or you have to get an apk of this version.
+> You can download this version [here](https://archive.org/download/MCPEAlpha/PE-a0.8.0_test1.apk).
 
 - Carpets can be placed underwater
 
@@ -143,8 +143,6 @@
 - Hoppers can be used to place undyed shulker boxes inside of dyed shulker boxes
 
 - Pumpkins can be equipped on armor stands, players and hostile mobs. These pumpkins will convert to regular pumpkins in future versions instead of carved pumpkins
-
-- Farmer villagers now sell 5-7 apples instead of just 5 apples
 
 - Standing and wall banners can be obtained by mining their respective block forms with a Silk Touch tool
 <br>
