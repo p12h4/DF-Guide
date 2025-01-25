@@ -138,7 +138,7 @@
 
 
 ### Beta 1.2.0.2: (Android Exclusive Version)
-- Water, flowing water, lava, and flowing lava tiles can be obtained via mining block transfer. A video showcasing how it works can be seen [here](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Media/Mining%20Block%20Transfer%20on%20Liquids.mp4)
+- Water, flowing water, lava, and flowing lava tiles can be obtained via mining block transfer. A video showing how to do it can be seen [here](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Media/Mining%20Block%20Transfer%20on%20Liquids.mp4)
 
 - Hoppers can be used to place undyed shulker boxes inside of dyed shulker boxes
 
@@ -210,7 +210,7 @@
 
 
 ### 1.8.0:
-- Bedrock can be obtained by making a bamboo-based Bedrock farm in the end. The farm is powered by end crystals that regenerate the Bedrock automatically. A video showcasing how it works can be seen [here](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Media/Bamboo%20based%20Bedrock%20block%20farm.mp4)
+- Bedrock can be obtained by making a bamboo-based Bedrock farm in the end. The farm is powered by end crystals that regenerate the Bedrock automatically. A video showing how to do it can be seen [here](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Media/Bamboo%20based%20Bedrock%20block%20farm.mp4)
 <br>
 
 
@@ -495,9 +495,9 @@
 
 
 ### 1.18.10:
-- The third hotbar slot acts as another output slot while being in the Furnace UI. For instance, if you switch between two stacks of netherite scraps (rename one to be able to swap) in this slot, you will receive 128 XP per swap. By using an autoclicker, you can reach the maximum level using this bug. You can use auto-clickers for both [Windows](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Files/AutoClicker/Windows/SpeedAutoClicker-v1.6.2.exe) and [Android](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Files/AutoClicker/Android/com.truedevelopersstudio.automatictap.autoclicker.apk) from the `Resources` folder
+- The third hotbar slot acts as another output slot while being in the Furnace UI. For instance, if you switch between two stacks of netherite scraps (rename one to be able to swap) in this slot, you will receive 128 XP per swap. By using an autoclicker, you can reach the maximum level using this bug. You can use auto-clickers for both [Windows](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Files/AutoClicker/Windows/AutoClicker-3.0.exe) and [Android](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Files/AutoClicker/Android/OPAutoClicker.apk) from the `Resources` folder
 
-- It is possible to obtain villagers with incorrect trades, such as a fletcher with stone mason trades. A video showcasing how it works can be seen [here](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Media/Villagers%20with%20trades%20from%20the%20wrong%20profession.mp4)
+- It is possible to obtain villagers with incorrect trades, such as a fletcher with stone mason trades. A video showing how to do it can be seen [here](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Media/Villagers%20with%20trades%20from%20the%20wrong%20profession.mp4)
 <br>
 
 
@@ -594,10 +594,8 @@ Beta 1.18.20.21: (Requires "Wild Update" World Toggle)
 <br>
 
 
-### Preview 1.19.50.21:
+### Preview 1.19.50.21 (Requires "Next Major Update" World Toggle):
 - When camels are bred, they use their current speed rather than their base speed. Therefore, if camels are splashed with swiftness or slowness potions before breeding, their offspring will be faster/slower than their parents. This breeding process can be repeated endlessly
-
-- Hanging Signs can be attached to Bamboo Saplings
 
 - Hanging Signs have a max of 15 characters per line instead of 8
 <br>
@@ -632,7 +630,7 @@ Beta 1.18.20.21: (Requires "Wild Update" World Toggle)
 
 - Illager Banners can be dispensed onto hostile mobs
 
-- It is possible to make creepers that cannot blow up. A video showcasing how it works can be seen [here](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Media/How%20To%20Get%20A%20Pet%20Tame%20Creeper.mp4)
+- It is possible to make creepers that cannot blow up. A video showing how to do it can be seen [here](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Media/How%20To%20Get%20A%20Pet%20Tame%20Creeper.mp4)
 <br>
 
 
