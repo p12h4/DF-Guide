@@ -3,12 +3,12 @@
 
 - To access coordinates in older versions of Minecraft, you can use the [CoordinatesUnlocker](https://github.com/p12h4/DF-Guide/raw/refs/heads/main/Bedrock/Resources/Resource%20Packs/CoordinatesUnlocker.mcpack) Resource Pack from the `Resources` folder. This pack is made for older versions that automatically enabled cheats when coordinates were activated.
 
-- A good starting seed for 0.3.2 is '3061982'; it contains all the essentials (clay, cactus, snow, lava).
+- A good starting seed for 0.3.2 is `3061982`; it contains all the essentials (clay, cactus, snow, lava).
 <br><br>
 
 
 ### 0.3.2: (Android Exclusive Version)
-- World names can be up to 1023 characters long. Out of these, only 255 can be regular characters like letters, numbers, or common symbols (e.g. , - _ or .). The remaining 768 characters must be special characters that are not allowed in Android folder names. These include symbols such as /, \, :, *, ?, ", <, >, and |.
+- World names can be up to 1023 characters long. Out of these, only 255 can be regular characters like letters, numbers, or common symbols (e.g. `,`, `-`, `_` or `.`). The remaining 768 characters must be special characters that are not allowed in Android folder names. These include symbols such as `/`, `\`, `:`, `*`, `?`, `"`, `<`, `>`, and `|`
 
 - Line breaks are allowed in world names
 
