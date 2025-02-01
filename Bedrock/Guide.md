@@ -108,11 +108,6 @@
 <br>
 
 
-### 0.16.0: (Android Exclusive Version)
-- Shearing mooshrooms drops mushrooms with a damage value of -1
-<br>
-
-
 ### alpha 0.17.0.1: (Android Exclusive Version)
 > [!CAUTION]
 > Hitting mobs crashes the game.
