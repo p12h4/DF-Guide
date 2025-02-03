@@ -77,12 +77,13 @@
 <br>
 
 
-### 0.12.1: (Android Exclusive Version)
-- Placing sponge underwater won't make it absorb any water
-
-- Renaming any item in an anvil adds an anvil use, increasing its cost with each renaming
-
+### 0.12.1 build 3: (Android Exclusive Version)
 - Blowing up a chest with enchanted books inside will remove the data of the enchanted books, leaving behind plain Enchanted Books with no enchantments
+<br>
+
+
+### 0.12.1: (Android Exclusive Version)
+- Renaming any item in an anvil adds an anvil use, increasing its cost with each renaming
 <br>
 
 
@@ -95,12 +96,20 @@
 
 ### 0.15.9:
 - Iron golems do not have knockback resistance
+
 - Taming Cats in this version and leaving them in unloaded chunks until 1.8.0.8 will turn them into tamed ocelots. In modern versions, they cannot be interacted with, which means you can't make them stand if they're sitting, or sit if they're standing
 <br>
 
 
 ### 0.16.0 build 4: (Android Exclusive Version)
 - When anvils fall onto torches, they drop with different data values (0–11) depending on their damage level and rotation
+
+- Sponges can be found inside ocean monuments, which is required for the next version
+<br>
+
+
+### 0.14.3:
+- Placing sponge underwater won't make it absorb any water
 <br>
 
 
