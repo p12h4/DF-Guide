@@ -508,7 +508,7 @@
 <br>
 
 
-Beta 1.18.20.21: (Requires "Wild Update" World Toggle)
+### Beta 1.18.20.21: (Requires "Wild Update" World Toggle)
 > [!NOTE]
 > This discontinued feature can only be seen by using third-party tools or checking the files in the world folder.
 - Previously placed frog spawn will turn into unknown blocks, storing the old "minecraft:frog_egg" ID
