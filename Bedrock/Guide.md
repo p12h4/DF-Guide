@@ -356,7 +356,7 @@
 
 
 ### Beta 1.17.0.52: (Android Exclusive Version, Requires "Caves and Cliffs" World Toggle)
-- All chunks that are loaded with the experimental toggle enabled will be elevated when updating. Any tile entity data in these chunks will be removed, which can result in things like empty mob spawners
+- All chunks that are loaded with the experimental toggle enabled will be elevated when updating. Any tile entity data in these chunks is not elevated accordingly, which can result in things like empty mob spawners
 <br>
 
 
