@@ -77,11 +77,6 @@
 <br>
 
 
-### 0.12.0:
-- Iron golems do not have knockback resistance
-<br>
-
-
 ### 0.12.1: (Android Exclusive Version)
 - Placing sponge underwater won't make it absorb any water
 
@@ -99,6 +94,7 @@
 
 
 ### 0.15.9:
+- Iron golems do not have knockback resistance
 - Taming Cats in this version and leaving them in unloaded chunks until 1.8.0.8 will turn them into tamed ocelots. In modern versions, they cannot be interacted with, which means you can't make them stand if they're sitting, or sit if they're standing
 <br>
 
