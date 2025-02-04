@@ -101,7 +101,7 @@
 <br>
 
 
-### 0.16.0 build 4: (Android Exclusive Version)
+### 0.16.0 build 3: (Android Exclusive Version)
 - When anvils fall onto torches, they drop with different data values (0–11) depending on their damage level and rotation
 
 - Sponges can be found inside ocean monuments, which is required for the next version
