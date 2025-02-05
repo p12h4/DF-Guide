@@ -77,17 +77,13 @@
 <br>
 
 
-### 0.12.0:
-- Iron golems do not have knockback resistance
+### 0.12.1 build 3: (Android Exclusive Version)
+- Blowing up a chest with enchanted books inside will remove the data of the enchanted books, leaving behind plain Enchanted Books with no enchantments
 <br>
 
 
 ### 0.12.1: (Android Exclusive Version)
-- Placing sponge underwater won't make it absorb any water
-
 - Renaming any item in an anvil adds an anvil use, increasing its cost with each renaming
-
-- Blowing up a chest with enchanted books inside will remove the data of the enchanted books, leaving behind plain Enchanted Books with no enchantments
 <br>
 
 
@@ -99,17 +95,21 @@
 
 
 ### 0.15.9:
+- Iron golems do not have knockback resistance
+
 - Taming Cats in this version and leaving them in unloaded chunks until 1.8.0.8 will turn them into tamed ocelots. In modern versions, they cannot be interacted with, which means you can't make them stand if they're sitting, or sit if they're standing
 <br>
 
 
-### 0.16.0 build 4: (Android Exclusive Version)
+### 0.16.0 build 3: (Android Exclusive Version)
 - When anvils fall onto torches, they drop with different data values (0–11) depending on their damage level and rotation
+
+- Sponges can be found inside ocean monuments, which is required for the next version
 <br>
 
 
-### 0.16.0: (Android Exclusive Version)
-- Shearing mooshrooms drops mushrooms with a damage value of -1
+### 0.14.3:
+- Placing sponge underwater won't make it absorb any water
 <br>
 
 
@@ -361,7 +361,7 @@
 
 
 ### Beta 1.17.0.52: (Android Exclusive Version, Requires "Caves and Cliffs" World Toggle)
-- All chunks that are loaded with the experimental toggle enabled will be elevated when updating. Any tile entity data in these chunks will be removed, which can result in things like empty mob spawners
+- All chunks that are loaded with the experimental toggle enabled will be elevated when updating. Any tile entity data in these chunks is not elevated accordingly, which can result in things like empty mob spawners
 <br>
 
 
@@ -513,7 +513,7 @@
 <br>
 
 
-Beta 1.18.20.21: (Requires "Wild Update" World Toggle)
+### Beta 1.18.20.21: (Requires "Wild Update" World Toggle)
 > [!NOTE]
 > This discontinued feature can only be seen by using third-party tools or checking the files in the world folder.
 - Previously placed frog spawn will turn into unknown blocks, storing the old "minecraft:frog_egg" ID
