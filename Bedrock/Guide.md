@@ -82,7 +82,7 @@
 <br>
 
 
-### 0.12.1: (Android Exclusive Version)
+### 0.14.0 build 2: (Android Exclusive Version)
 - Renaming any item in an anvil adds an anvil use, increasing its cost with each renaming
 <br>
 
