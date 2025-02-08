@@ -142,8 +142,6 @@
 
 - Hoppers can be used to place undyed shulker boxes inside of dyed shulker boxes
 
-- Pumpkins can be equipped on armor stands, players and hostile mobs. These pumpkins will convert to regular pumpkins in future versions instead of carved pumpkins
-
 - Standing and wall banners can be obtained by mining their respective block forms with a Silk Touch tool
 <br>
 
@@ -245,6 +243,8 @@
 
 
 ### 1.14.0:
+- Pumpkins can be dispensed onto hostile mobs that can wear armor, armor stands and players
+
 - When using a silk touch tool on red/brown mushroom blocks and mushroom stems, they will drop mushroom blocks with different NBT values and a different appearance
 
 - Farmer villagers buy 4 melon slices instead of melon blocks on the Journeyman level trade
