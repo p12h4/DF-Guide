@@ -570,7 +570,7 @@
 ### Beta 1.19.0.26: (Android Exclusive Version)
 > [!NOTE]
 > This discontinued feature can only be seen by using third-party tools or checking the files in the world folder.
--  propagules will turn into unknown blocks, keeping their old ID in the next version
+-  Mangrove propagules will turn into unknown blocks, keeping their old ID in the next version
 <br>
 
 
