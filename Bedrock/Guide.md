@@ -693,3 +693,8 @@
 
 ### 1.21.50:
 - Pillagers, Vindicators, and Evokers can pick up White Banners and will swap them with their weapon. They can hold up to 16 White Banners and can also pick up White Banners with Banner Patterns
+<br>
+
+
+### 1.21.60:
+- Placing tall plants at y=319 will cut them in half
