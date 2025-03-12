@@ -375,7 +375,7 @@
 ### 1.17.0:
 - By placing a block against the top side of an amethyst cluster and removing the supporting block, the cluster will remain floating in mid-air. Once it is floating, you can also remove the other block
 
-- Dispensing Powder snow into lit portals (specifically East or North facing portals) will split the portal, leaving behind portal blocks solely on the layer where the snow was placed
+- Dispensing Powder snow, lava or water into lit portals (specifically East or North facing portals) will split the portal, leaving behind portal blocks solely on the layer where the snow was placed
 
 - Mining a lit Observer will keep its lit state in the inventory. Stacking lit obeservers with regular observers will revert them
 
@@ -697,4 +697,6 @@
 
 
 ### 1.21.60:
-- Placing tall plants at y=319 will cut them in half
+- Placing tall plants at y=319 will result in the top half being removed, keeping the bottom half
+
+- Waterlogging the top half of a small dripleaf and subsequently placing a sponge nearby will result in the top half being destroyed, keeping the bottom half
