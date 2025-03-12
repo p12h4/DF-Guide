@@ -620,6 +620,11 @@
 <br>
 
 
+### Preview 1.19.80.22 (Requires "Next Major Update" World Toggle):
+- Pink Petals are able to replace the bottom half of tallgrass blocks during world gen, keeping the top half. To prevent them from breaking randomly, quickly unload the chunks and keep them unloaded until 1.21.60
+<br>
+
+
 ### 1.19.80:
 - Leather Chestplates with Efficiency 1 can be found in the tree room within Woodland Mansions
 <br>
